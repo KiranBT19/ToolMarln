@@ -2,3 +2,7 @@
 	path = MTC
 	url = https://github.com/KiranBT19/MTC.git
 	branch = master
+[submodule "TOOLSUP"]
+	path = TOOLSUP
+	url = https://github.com/KiranBT19/TOOLSUP.git
+	branch = master
