@@ -6,3 +6,6 @@
 	path = TOOLSUP
 	url = https://github.com/KiranBT19/TOOLSUP.git
 	branch = master
+[submodule "MTC/MTC"]
+	path = MTC/MTC
+	url = https://github.com/KiranBT19/MTC
