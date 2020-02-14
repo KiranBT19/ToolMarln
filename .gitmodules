@@ -6,3 +6,6 @@
 	path = TOOLSUP
 	url = https://github.com/KiranBT19/TOOLSUP.git
 	branch = master
+[submodule "Tool"]
+	path = Tool
+	url = https://github.com/KiranBT19/Tool
